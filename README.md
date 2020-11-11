@@ -1,7 +1,7 @@
 # Pyuniswap
 
 
-[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/asynctomatic/uniswap-v2-py/master/LICENSE)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/yyy20119/pyuniswap/main/LICENSE)
 
 An open source python wrapper for [Uniswap V2](https://uniswap.exchange/).
 
@@ -53,6 +53,8 @@ prq.buy(int(1e18), slippage=0.05)
 ## Github
 
 More details:https://github.com/yyy20119/pyuniswap
+
+**Pull requests are welcome!**
 
 
 
